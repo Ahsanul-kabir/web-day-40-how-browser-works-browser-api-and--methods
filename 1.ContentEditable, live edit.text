@@ -1,0 +1,2 @@
+// ei script use korle live  e website edit kora jabe (console.log kora lagbo)
+document.body.contentEditable = true
